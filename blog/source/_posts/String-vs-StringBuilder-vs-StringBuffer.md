@@ -9,10 +9,11 @@ tags:
 ---
 # String, StringBuilder, StringBuffer 차이
 
+
 ### 왜? :  
 개발자 일을 시작하면서, 자바 기초책을 읽는다는 것은 자존심이 상할 때가 있었다.  
 
-그러나 결국 자바의 기초가 중요하다고 생각하며  **자바의 신**을 읽게 되었다.
+그러나 결국 자바의 기초가 중요하다고 생각하며  **자바의 신** 을 읽게 되었다.
 
 읽는 도중 String, StringBuilder, StringBuffer 차이의 언급을 보고 해당 Post를 작성하게 되었다.
   
